@@ -1,7 +1,7 @@
 #Smarthome Control
 ESP32 DHT11 Relay Blynk 1Wire
 This is my college microprocessor engineering major assignment.
-This is a smart home system that uses sensors  to monitor and control different aspects of a home. I use kit ESP32 as main processor, DHT11 as sensor for measuring temperature and humidity, blynk as the display block and relay as load switching block
+It is a smart home system that uses sensors  to monitor and control different aspects of a home. I use kit ESP32 as main processor, DHT11 as sensor for measuring temperature and humidity, blynk as the display block and relay as load switching block
 
 ## Demo
 See a demo of this project on YouTube.
